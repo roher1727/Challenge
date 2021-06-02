@@ -53,5 +53,5 @@ curl http://localhost:56733/flat_list -d '{"save":1,"items": [1, 2, [3, 4, [5, 6
 To show saved lists
 
 ```bash 
-curl http://localhost:5000/show_saved
+curl http://localhost:56733/show_saved
 ```
